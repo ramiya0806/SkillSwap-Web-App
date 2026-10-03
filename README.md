@@ -69,6 +69,41 @@ SkillSwap-Web-App/
 ├── .gitignore
 └── README.md
 
+## 📸 Screenshots
+
+### Login
+
+![Login](./skillswap%20screenshots/01-login.png)
+
+### Create Account
+
+![Create Account](./skillswap%20screenshots/02-create%20account.png)
+
+### Welcome Page
+
+![Welcome Page](./skillswap%20screenshots/03-welcome%20page.png)
+
+### My Skills
+
+![My Skills](./skillswap%20screenshots/04-my%20skills.png)
+
+### Find Partners
+
+![Find Partners](./skillswap%20screenshots/05-find%20partners.png)
+
+### My Requests
+
+![My Requests](./skillswap%20screenshots/06-my%20requests.png)
+
+### Profile
+
+![Profile](./skillswap%20screenshots/07-profile.png)
+
+### Messages
+
+![Messages](./skillswap%20screenshots/08-messages.png)
+
+
 ## ⚙️ Installation and Setup
 
 ### Prerequisites
